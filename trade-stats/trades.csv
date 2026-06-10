@@ -1,0 +1,16 @@
+symbol,price,quantity,side
+AAPL,187.25,100,buy
+MSFT,422.10,50,sell
+AAPL,187.40,75,buy
+AAPL,186.95,120,sell
+MSFT,423.00,30,buy
+TSLA,174.80,200,buy
+TSLA,175.15,90,sell
+NVDA,118.60,140,buy
+NVDA,119.05,60,sell
+AAPL,187.80,45,buy
+MSFT,421.75,25,sell
+TSLA,174.55,110,buy
+NVDA,118.90,80,buy
+AAPL,186.70,65,sell
+MSFT,422.65,40,buy
